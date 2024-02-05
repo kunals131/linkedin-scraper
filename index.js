@@ -6,7 +6,7 @@ const cheerio = require("cheerio");
 async function createBroswer() {
   try {
     return await puppeteer.launch({
-      headless: false,
+      headless: true,
       timeout: 45 * 1000, //45 seconds
       args: [
         "--no-sandbox",
@@ -55,7 +55,7 @@ const getExperience = async (page, userId)=>{
 const getEducation = async (page, userId)=>{
   try {
   const updatedUrl = `${url}/${userId}/details/education`;
-  console.log('Redericting to experience page')
+  console.log('Redericting to education page')
   await page.goto(updatedUrl);
   await page.waitForTimeout(2000);
   console.log('Redirected')
@@ -82,7 +82,7 @@ const getEducation = async (page, userId)=>{
 
 const getSkills = async (page,userId)=>{
   const updatedUrl = `${url}/${userId}/details/skills`;
-  console.log('Redericting to experience page')
+  console.log('Redericting to skills page')
   await page.goto(updatedUrl);
   await page.waitForTimeout(2000);
   console.log('Redirected')
@@ -122,7 +122,7 @@ const getCertifications = async(page,userId)=>{
 const getAwards = async(page,userId)=>{
   try {
   const updatedUrl = `${url}/${userId}/details/honors`;
-  console.log('Redericting to certifications page')
+  console.log('Redericting to awards page')
   await page.goto(updatedUrl);
   await page.waitForTimeout(2000);
   console.log('Redirected')
@@ -215,19 +215,19 @@ async function main(userId) {
       about: $(SELECTORS.ABOUT)?.text()?.replace("\n", "")?.trim() || "",
     };
     await getSkills(page,userId);
-    // const projects = await getProjects(page,userId);
-    // const education = await getEducation(page,userId)
-    // const experience = await getExperience(page,userId)
-    // const awards = await getAwards(page,userId);
-    // const certifications = await getCertifications(page,userId);
-    // scrappedData['projects'] = projects;
-    // scrappedData['education'] = education;
-    // scrappedData['experience'] = experience;
-    // scrappedData['awards'] = awards;
-    // scrappedData['certifications'] = certifications;
+    const projects = await getProjects(page,userId);
+    const education = await getEducation(page,userId)
+    const experience = await getExperience(page,userId)
+    const awards = await getAwards(page,userId);
+    const certifications = await getCertifications(page,userId);
+    scrappedData['projects'] = projects;
+    scrappedData['education'] = education;
+    scrappedData['experience'] = experience;
+    scrappedData['awards'] = awards;
+    scrappedData['certifications'] = certifications;
     console.log(scrappedData)
     fs.writeFileSync("scrappedData.json", JSON.stringify(scrappedData));
-    // await browser.close()
+    await browser.close()
   } catch (error) {
     console.error(error);
   }
