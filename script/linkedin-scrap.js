@@ -11,7 +11,7 @@ const { getCertifications } = require("./certifications");
 async function createBroswer() {
   try {
     return await puppeteer.launch({
-      headless: false,
+      headless: true,
       timeout: 45 * 1000, //45 seconds
       args: [
         "--no-sandbox",
@@ -43,7 +43,7 @@ exports.fetchLinkedinProfile = async (userId, onSuccess) => {
 
     await page.goto(`${url}/${userId}`);
     console.log("Wait for the main page load");
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(2000);
     console.log("Wait ended for main page");
 
     // Get the HTML content of the entire page

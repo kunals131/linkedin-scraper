@@ -1,32 +1,5 @@
 [
   {
-    "fullName": "Marco Gomes",
-    "bio": "Sr Director, Infrastructure Operations at Massachusetts Institute of Technology (MIT)",
-    "location": "Cambridge, Massachusetts, United States",
-    "about": "",
-    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
-    "education": [],
-    "experience": [
-      {
-        "title": "",
-        "company": "",
-        "duration": "",
-        "location": "",
-        "description": ""
-      },
-      {
-        "title": "IT Support Specialist",
-        "company": "Ticketmaster",
-        "duration": "Mar 1998 - Aug 2000 · 2 yrs 6 mos",
-        "location": "",
-        "description": ""
-      }
-    ],
-    "awards": [{ "title": "", "issueDetails": "" }],
-    "certifications": [{ "title": "", "issuer": "", "link": "" }],
-    "id": "marco-gomes-9526366"
-  },
-  {
     "fullName": "Mark Jabbour",
     "bio": "Student at Massachusetts Institute of Technology",
     "location": "United States",
@@ -58,5 +31,1391 @@
     ],
     "certifications": [{ "title": "", "issuer": "", "link": "" }],
     "id": "mark-jabbour-4a743b1a6"
+  },
+  {
+    "fullName": "Martin Schneider",
+    "bio": "Helping transform go-to-market strategies for the converged growth era. #gotomarketstrategy",
+    "location": "San Francisco Bay Area",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Rutgers University - Camden",
+        "degree": "Master of Arts, English",
+        "duration": "1992 - 1998",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Holy Cross High School",
+        "degree": "Diploma",
+        "duration": "1989 - 1992",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Head of Research & Chief Evangelist",
+        "company": "ANNUITAS · Full-time",
+        "duration": "Jan 2023 - Present · 1 yr 2 mos",
+        "location": "SF Bay · Remote",
+        "description": "Skills: Digital Marketing · Business-to-Business (B2B)"
+      },
+      {
+        "title": "Member Of The Board Of Advisors",
+        "company": "Cuspera · Part-time",
+        "duration": "Jun 2020 - Present · 3 yrs 9 mos",
+        "location": "San Francisco Bay Area",
+        "description": "Skills: Digital Marketing · Marketing Materials · Positioning (Marketing) · Business-to-Business (B2B)"
+      },
+      {
+        "title": "Chief Evangelist and Head of Solutions Marketing",
+        "company": "SupportLogic · Full-time",
+        "duration": "Jul 2021 - Jan 2023 · 1 yr 7 mos",
+        "location": "San Jose, California, United States",
+        "description": "Skills: Digital Marketing · Marketing Materials · White Papers · Positioning (Marketing) · Business-to-Business (B2B) · Case Studies · Spokesperson · Data Sheets"
+      },
+      {
+        "title": "Head of Product Marketing & Corp Strategy",
+        "company": "SugarCRM",
+        "duration": "Mar 2013 - Jun 2021 · 8 yrs 4 mos",
+        "location": "",
+        "description": "Built the Marketing organization and lead/revenue funnel (twice!) at SugarCRM"
+      },
+      {
+        "title": "Marketing Consultant",
+        "company": "Self-Employed",
+        "duration": "Nov 2012 - Feb 2013 · 4 mos",
+        "location": "San Jose, CA",
+        "description": "Helped Bay area startups with marketing, messaging, positioning, content, etc. "
+      },
+      {
+        "title": "Research Director",
+        "company": "451 Research",
+        "duration": "Jan 2012 - Nov 2012 · 11 mos",
+        "location": "San Francisco, CA",
+        "description": "Analyzing the top of the IT stack for the leading analysis firm covering the business of IT innovation."
+      },
+      {
+        "title": "Vice President, Marketing",
+        "company": "Basho Technologies",
+        "duration": "Apr 2011 - Jan 2012 · 10 mos",
+        "location": "San Francisco, California, United States",
+        "description": "Brought the promising noSQL startup out of stealth. Grew the business from zero revenue to multi-million ARR in less than 8 months. "
+      },
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": "Manages all marketing communications for SugarCRM, including press, analyst and social media outreach. Responsible for sales and marketing collateral and messaging; as well as the customer reference program and entire SugarCRM speakers program.Owned marketing for SugarCRM,  the premier commercial open source CRM application vendor."
+      },
+      {
+        "title": "Senior Analyst",
+        "company": "the 451 Group",
+        "duration": "Mar 2004 - Apr 2007 · 3 yrs 2 mos",
+        "location": "",
+        "description": "Contributed short and long format reports to 451's core research service; acted as evangelist for SaaS and open source; and identified emerging trends in application software."
+      },
+      {
+        "title": "Editor - CRM Magazine",
+        "company": "Information Today, Inc.",
+        "duration": "Sep 2002 - Feb 2004 · 1 yr 6 mos",
+        "location": "NYC ",
+        "description": "Managed the online presence for the leading CRM industry magazine; contributed news features to the monthly print publication and managed the news section of the print magazine as well."
+      },
+      {
+        "title": "Editor",
+        "company": "NAPCO",
+        "duration": "2000 - 2001 · 1 yr",
+        "location": "",
+        "description": "Conceptualized, staffed and acted as Editor-in-Chief of Digital Entertainment - a new media magazine covering the move to digital in Hollywood. The short-lived but exciting ride was a nice microcosmic analogy of the meteoric rise and fall of the new media and new economy hype leading up to the dot com bust."
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "martinaschneider"
+  },
+  {
+    "fullName": "Marvin von Hagen",
+    "bio": "MIT | Prev. Tesla, TUM Boring, Sciences Po Paris",
+    "location": "Cambridge, Massachusetts, United States",
+    "about": "",
+    "projects": [
+      {
+        "title": "10 Principles for Good Design (Swift Playground Book)",
+        "duration": "May 2020 - May 2020",
+        "url": "http://good-design.vhagen.me",
+        "description": "iPad Playground Book to get to know Dieter Rams' «10 Principles for Good Design» in interactive AR, developed as part of the Swift Student Challenge by Apple, Inc."
+      },
+      {
+        "title": "EIT DigiEduHack @ Aalto University, Helsinki – career-to-peer",
+        "duration": "Oct 2019 - Oct 2019",
+        "url": "",
+        "description": "Skills: Swift · iOS Development"
+      },
+      {
+        "title": "hackaTUM at the Technical University of Munich – Security 4 the rest of us",
+        "duration": "Nov 2018 - Nov 2018",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "CODE 24 Hackathon @ ProSiebenSat.1 Munich – Quizity",
+        "duration": "Oct 2018 - Oct 2018",
+        "url": "",
+        "description": "Skills: iOS Development"
+      },
+      {
+        "title": "AngelHack Global Hackathon Series @ Parisoma, San Francisco, California – VERITAS",
+        "duration": "Jul 2018 - Jul 2018",
+        "url": "",
+        "description": "Skills: Swift · iOS Development"
+      },
+      {
+        "title": "QuadraSolve & VoiceSolver",
+        "duration": "Nov 2016 - Apr 2018",
+        "url": "http://onelink.to/QuadraSolve",
+        "description": "Award-winning app & Alexa Skill available on the App Store, Google Play and Alexa Skill Store, used by over 6,000 blind students worldwide"
+      },
+      {
+        "title": "Jugend hackt Cologne – alpacAR",
+        "duration": "Sep 2017 - Sep 2017",
+        "url": "https://twitter.com/jugendhacktNRW/status/906889097486233601",
+        "description": "ARKit-based iOS-app that enables Jugend hackt attendees to shoot pictures with the hackathon mascot"
+      },
+      {
+        "title": "CODE+DESIGN Hackathon by CODE University Berlin – truck.",
+        "duration": "May 2017 - May 2017",
+        "url": "",
+        "description": "Skills: Swift · iOS Development"
+      }
+    ],
+    "education": [
+      {
+        "collegeName": "Massachusetts Institute of Technology",
+        "degree": "1-yr Research Stay",
+        "duration": "2024",
+        "grade": "Activities and societies: Prod.so: Cohort 3.0, MIT AI Alignment (MAIA): AI Gov Fellowship",
+        "description": "Sponsored by the MIT Center for Collective Intelligence as a non-degree-seeking student at MIT throughout the academic year 2023–24; auditing grad courses at Harvard"
+      },
+      {
+        "collegeName": "Center for Digital Technology and Management (CDTM)",
+        "degree": "Honors Degree (Graduate-level)",
+        "duration": "2023",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Sciences Po",
+        "degree": "Erasmus+ Scholar",
+        "duration": "2021",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Technical University of Munich",
+        "degree": "Bachelor of Science - BS",
+        "duration": "2023",
+        "grade": "Activities and societies: Deutschlandstipendium Scholar (German Academic Merit Scholarship)",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Analytics & Automation",
+        "company": "Tesla · Internship",
+        "duration": "Dec 2021 - May 2022 · 6 mos",
+        "location": "Amsterdam, North Holland, Netherlands",
+        "description": "Skills: Microsoft Power BI · SQL · Microsoft Power Automate · Data Analytics · DAX"
+      },
+      {
+        "title": "Co-Founder & Project Lead",
+        "company": "TUM Boring – Innovation in Tunneling e.V. · Full-time",
+        "duration": "Jul 2020 - Dec 2021 · 1 yr 6 mos",
+        "location": "Las Vegas, Nevada, United States",
+        "description": "Out of 390 teams worldwide, SpaceX and its spin-off The Boring Company have invited us to the finals of the Not-a-Boring Competition 2021 in Las Vegas. After a hard year of fundraising and engineering/building a 40-ft-long, 22-tons-heavy tunnel boring machine, our 65-student team could successfully bore a tunnel and win against the other eleven finalists, incl. MIT and ETH Zürich."
+      },
+      {
+        "title": "Head of External",
+        "company": "TUM Speakers Series · Part-time",
+        "duration": "Apr 2020 - Nov 2021 · 1 yr 8 mos",
+        "location": "Munich, Bavaria, Germany",
+        "description": "Speakers included:• Tony Blair, former Prime Minister of the UK• Muhammad Yunus, Nobel Peace Prize Laureate• Ban Ki-moon, former UN Secretary-General"
+      },
+      {
+        "title": "Project Student",
+        "company": "TUM Hyperloop · Part-time",
+        "duration": "Nov 2019 - Apr 2020 · 6 mos",
+        "location": "Munich, Bavaria, Germany",
+        "description": "Feasibility study about Hyperloop systems in cooperation with:• TUM Chair for Strategy & Organisation (Prof. Dr. Isabell Welpe, Dr. Nicholas Folger)• TUM Hyperloop / NEXT Prototypes e.V.• ILF Consulting Engineers• Energiversorgung Mittelrhein AG"
+      },
+      {
+        "title": "Research Assistant",
+        "company": "Center for Digital Technology and Management (CDTM) · Part-time",
+        "duration": "May 2019 - Mar 2020 · 11 mos",
+        "location": "Munich, Bavaria, Germany",
+        "description": "• Assisted in research projects, e.g., by analyzing large data sets in R• Prepared courses and lectures"
+      },
+      {
+        "title": "Software Development Intern",
+        "company": "BROCKHAUS AG · Internship",
+        "duration": "Jun 2016 - Jul 2016 · 2 mos",
+        "location": "Dortmund, North Rhine-Westphalia, Germany",
+        "description": "• Built an automated, network-internal video conference system based on Raspberry Pis"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Deutschlandstipendium 2022/2023",
+        "issueDetails": "Issued by Federal Ministry of Education and Research (BMBF) · Oct 2022"
+      },
+      {
+        "title": "Deutschlandstipendium 2021/2022",
+        "issueDetails": "Issued by Federal Ministry of Education and Research (BMBF) · Oct 2021"
+      },
+      {
+        "title": "Winning Team of the Not-a-Boring Competition 2021",
+        "issueDetails": "Issued by SpaceX & The Boring Company · Sep 2021"
+      },
+      {
+        "title": "Deutschlandstipendium 2020/2021",
+        "issueDetails": "Issued by Federal Ministry of Education and Research (BMBF) · Oct 2020"
+      },
+      {
+        "title": "50 for Future – Class of 2020",
+        "issueDetails": "Issued by DLD Media · Jan 2020"
+      },
+      {
+        "title": "Winner of the Telekom Challenge @ hackaTUM",
+        "issueDetails": "Issued by Deutsche Telekom AG · Nov 2018"
+      },
+      {
+        "title": "Winner of the ConsenSys Challenge @ AngelHack San Francisco",
+        "issueDetails": "Issued by ConsenSys · Jul 2018"
+      },
+      {
+        "title": "DPG Abitur Award & Honorary Membership",
+        "issueDetails": "Issued by Deutsche Physikalische Gesellschaft (DPG) · Jun 2018"
+      },
+      {
+        "title": "MINT-EC Certificate, Highest Honors",
+        "issueDetails": "Issued by Verein mathematisch-naturwissenschaftlicher Excellence-Center an Schulen e.V. · May 2018"
+      },
+      {
+        "title": "Awards @ Jugend forscht (\"Youth researches\")",
+        "issueDetails": "Issued by Stiftung Jugend forscht e.V. · Mar 2018"
+      },
+      {
+        "title": "Award @ National Computer Science Competition Germany",
+        "issueDetails": "Issued by Bundesweite Informatikwettbewerbe e.V. · Feb 2018"
+      },
+      {
+        "title": "ACXIT Pitch Battle – Final Qualification",
+        "issueDetails": "Issued by ACXIT Capital Partners · Nov 2017"
+      },
+      {
+        "title": "Bronze Medal @ Pangea Mathematics Competition",
+        "issueDetails": "Issued by Pangea Wettbewerbe e.V. · Aug 2016"
+      }
+    ],
+    "certifications": [
+      { "title": "", "issuer": "", "link": "" },
+      {
+        "title": "Certificate in Advanced English (CAE)",
+        "issuer": "Cambridge University Press & Assessment English",
+        "link": "https://verifier.cambridgeenglish.org"
+      }
+    ],
+    "id": "marvinvonhagen"
+  },
+  {
+    "fullName": "Mason Wang",
+    "bio": "Building something new",
+    "location": "Stanford, California, United States",
+    "about": "",
+    "projects": [
+      {
+        "title": "Noora",
+        "duration": "Jun 2022 - Present",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Sparse Fusion for Multimodal Transformers",
+        "duration": "Aug 2021 - Nov 2021",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Interpolating Latent Representations to Increase Multimodal Algorithms’ Label Noise Tolerance",
+        "duration": "Jun 2021 - Jul 2021",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "ClefNet: Recurrent Autoencoders with Dynamic Time Warping for Near-Lossless Music Compression and Minimal-Latency Transmission",
+        "duration": "",
+        "url": "https://www.preprints.org/manuscript/202103.0360/v1",
+        "description": "Real-time music production is notoriously difficult due to the excessively high latencies that current video call platforms such as Zoom and Google Meet harbor. In this paper, we propose an architecture for a platform with end-to-end, near-lossless audio transmission tailored specifically to online joint music production, called Latent Space. We discuss the usage of a recurrent autoencoder with sequence-aware encoding (RAES) and a 1D convolutional layer for audio compression, which we dub ClefNet, as well as propose a new evaluation metric for naive autoencoders (AEs), MSE-DTW loss, which combines the traditional mean square error (MSE) loss function with dynamic time warping (DTW) to prevent an increase in loss when the target sequence predicted by the AE is strictly a temporal variation of the source sequence. Moreover, we detail the logistics of a live system implementation which uses the Web Audio API to extract raw audio samples in real-time to feed into our client-side model before relaying the traffic using peer-to-peer WebRTC technology. The Latent Space platform can be accessed at https://latent-space.tech, and the code and data can be found under the MIT License at https://github.com/rvignav/ClefNet."
+      }
+    ],
+    "education": [
+      {
+        "collegeName": "Stanford University",
+        "degree": "Computer Science",
+        "duration": "2023 - 2028",
+        "grade": "Grade: Deferred Enrollment",
+        "description": ""
+      },
+      {
+        "collegeName": "Saratoga High School",
+        "degree": "High School Diploma",
+        "duration": "2019 - 2023",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Foothill College",
+        "degree": "2020 - 2023",
+        "duration": "2020 - 2023",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "West Valley College",
+        "degree": "2020 - 2023",
+        "duration": "2020 - 2023",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "UC Santa Barbara",
+        "degree": "Research Mentorship Program",
+        "duration": "Jun 2021 - Jul 2021",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Researcher",
+        "company": "Stanford University · Part-time",
+        "duration": "Jun 2022 - Jun 2023 · 1 yr 1 mo",
+        "location": "Stanford, California, United States · On-site",
+        "description": "Conducted research under Professor Monica Lam (CS).Worked closely with Dr. Lynn Koegel (Psychiatry and Behavioral Sciences).First high schooler to present to the Stanford NLP Group. As a high schooler, was a guest speaker at Stanford's CS 372: Artificial Intelligence for Precision Medicine and Psychiatric Disorders.Research topics: NLP, LLMs."
+      },
+      {
+        "title": "Student Researcher",
+        "company": "UC Santa Barbara",
+        "duration": "Aug 2021 - Jun 2022 · 11 mos",
+        "location": "",
+        "description": "Advised by Tobias Höllerer (CS) and Pradeep Sen (EECS) at the Four Eyes Lab.Research topics: multimodal machine learning and learning with noisy labels."
+      },
+      {
+        "title": "Machine Learning Intern",
+        "company": "MediaTek · Internship",
+        "duration": "May 2019 - Jul 2019 · 3 mos",
+        "location": "Shenzhen, Guangdong",
+        "description": "Utilizing Mediatek’s core hardware to develop Edge AI solutions."
+      }
+    ],
+    "awards": [
+      {
+        "title": "AP Scholar with Distinction",
+        "issueDetails": "Issued by College Board · Jul 2022"
+      },
+      { "title": "HackMIT 3rd Place", "issueDetails": "Sep 2020" },
+      { "title": "COVIDathon Winner", "issueDetails": "Jun 2020" },
+      { "title": "TitanHacks Winner", "issueDetails": "Apr 2020" },
+      { "title": "Grand Prize @ LAHacks 2020", "issueDetails": "Mar 2020" },
+      { "title": "Other Awards", "issueDetails": "May 2018" }
+    ],
+    "certifications": [
+      {
+        "title": "Oracle Certified Associate, Java SE 8 Programmer",
+        "issuer": "Oracle",
+        "link": "https://www.youracclaim.com/badges/e6d119d6-b483-49fc-8490-bd4d531a477a/linked_in_profile"
+      }
+    ],
+    "id": "mason-wang"
+  },
+  {
+    "fullName": "Matt Tengtrakool",
+    "bio": "Co-Founder @ Clav (YC W24)",
+    "location": "Greater Boston",
+    "about": "",
+    "projects": [
+      {
+        "title": "A Soon-To-Be Voter's Guide To Politics",
+        "duration": "Sep 2019 - Jul 2021",
+        "url": "https://roddenberryfoundation.org/blog/awardee/matt-tengtrakool/",
+        "description": "Chatting with Tom Steyer, Pete Buttigeig, Congressman Seth Moulton, and more. Roddenberry Foundation Fellow, New York Times Student Podcast Finalist"
+      },
+      {
+        "title": "Nano-material Additives for Targeted Heating of Petroleum Hydrocarbons",
+        "duration": "Jun 2019 - Sep 2019",
+        "url": "https://www.onurapul.com/team",
+        "description": ""
+      },
+      {
+        "title": "A Space Allocation Model Based on Social Distancing Requirements and Occupancy",
+        "duration": "Mar 2019 - Apr 2019",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Augmented Reality for Visual Rehabilitation in Glaucoma",
+        "duration": "Jun 2017 - Aug 2017",
+        "url": "https://cambridge.nuvustudio.com/studios/1242-augmented-health-advanced-mit/tabs/9163-projects",
+        "description": ""
+      }
+    ],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "Bachelor's degree, Computer Science, Statistics, Economics",
+        "duration": "Sep 2021 - Dec 2023",
+        "grade": "Activities and societies: Harvard Technology Review (President), HPAIR (Finance Director), Harvard Computer Society (Mentorship Director), Peer Concentration Advisor, HIA",
+        "description": ""
+      },
+      {
+        "collegeName": "Burlington High School",
+        "degree": "Valedictorian",
+        "duration": "Sep 2017 - May 2021",
+        "grade": "Activities and societies: National Honor Society (President), Mu Alpha Theta (President), Peer Tutoring (President), Math League (Captain), Varsity Tennis (Captain), Varsity Swim (Captain)Foot Locker National Scholar Athlete, NHS National Scholar, Elks MVS, AXA National Achievement Scholar, Live Mas Scholar, Mensa",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Co-Founder",
+        "company": "Clav · Full-time",
+        "duration": "Oct 2023 - Present · 5 mos",
+        "location": "San Francisco Bay Area",
+        "description": "Building the best banking platform for any organization"
+      },
+      {
+        "title": "Roberts Family Fellow",
+        "company": "Harvard Business School",
+        "duration": "Sep 2023 - Present · 6 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Venture ",
+        "company": "Pear VC",
+        "duration": "Sep 2023 - Dec 2023 · 4 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Software Engineering Intern",
+        "company": "Cherry",
+        "duration": "Jun 2023 - Sep 2023 · 4 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Engineering Fellow",
+        "company": "Kleiner Perkins",
+        "duration": "Jun 2023 - Aug 2023 · 3 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Co-Founder",
+        "company": "Oban · Full-time",
+        "duration": "Jun 2022 - Jun 2023 · 1 yr 1 mo",
+        "location": "San Francisco · On-site",
+        "description": "Building Nigeria's leading financial literacy platform. Backed by Fast Forward Africa, ZFellows, Prod.so & more. BostonInno 25u25"
+      },
+      {
+        "title": "Venture Scout",
+        "company": "Draper Associates",
+        "duration": "Sep 2021 - Sep 2022 · 1 yr 1 mo",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Analyst Intern",
+        "company": "Marathon Digital Holdings",
+        "duration": "Jan 2022 - Jun 2022 · 6 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Data Science Intern",
+        "company": "USDA",
+        "duration": "Jun 2021 - Aug 2021 · 3 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Co-op Intern",
+        "company": "Microsoft",
+        "duration": "Apr 2021 - Jun 2021 · 3 mos",
+        "location": "Burlington, Massachusetts, United States",
+        "description": ""
+      },
+      {
+        "title": "Founder",
+        "company": "iRemember",
+        "duration": "Jan 2020 - May 2021 · 1 yr 5 mos",
+        "location": "",
+        "description": "501c3 working with seniors to build a comprehensive perspective of personal and world histories."
+      },
+      {
+        "title": "Engineering Intern",
+        "company": "MIT Lincoln Laboratory",
+        "duration": "Jun 2020 - Jul 2020 · 2 mos",
+        "location": "",
+        "description": ""
+      }
+    ],
+    "awards": [
+      {
+        "title": "Harvard Presidents Innovation Challenge Finalist",
+        "issueDetails": "Issued by Harvard Innovation Labs · Mar 2023"
+      },
+      {
+        "title": "Boston 25 Under 25",
+        "issueDetails": "Issued by Boston Business Journal · Nov 2022"
+      },
+      {
+        "title": "Thoreau Scholar",
+        "issueDetails": "Issued by Henry David Thoreau Foundation · Mar 2021"
+      },
+      {
+        "title": "Congressional Award Gold Medal",
+        "issueDetails": "Issued by United States Congress · Oct 2020"
+      },
+      {
+        "title": "Roddenberry Catalyst+ Award",
+        "issueDetails": "Issued by Roddenberry Foundation · Jul 2020"
+      },
+      {
+        "title": "Eagle Scout ",
+        "issueDetails": "Issued by Scouting of America · Feb 2018"
+      },
+      { "title": "Hackathons", "issueDetails": "" },
+      { "title": "Writing", "issueDetails": "" }
+    ],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "matt-tengtrakool"
+  },
+  {
+    "fullName": "Matthew Kiflu",
+    "bio": "Building Egress. Harvard + YC Alum.",
+    "location": "San Francisco, California, United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "AB, English",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Founder & CEO",
+        "company": "Egress (YC S23)",
+        "duration": "May 2023 - Present · 10 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Fellow",
+        "company": "Pear VC",
+        "duration": "Oct 2020 - May 2023 · 2 yrs 8 mos",
+        "location": "",
+        "description": ""
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "matthewkiflu"
+  },
+  {
+    "fullName": "Max Morganroth",
+    "bio": "Co-Founder at Rove (YC W24) | Entrepreneurship at The Wharton School",
+    "location": "New York, New York, United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "The Wharton School",
+        "degree": "Entrepreneurship & Innovation",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Prod",
+        "degree": "Cohort 3.0",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "University of Pennsylvania",
+        "degree": "Bachelor of Science - BS, Economics",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Co-Founder",
+        "company": "Rove",
+        "duration": "May 2023 - Present · 10 mos",
+        "location": "",
+        "description": "The first travel credit card for Gen Z. Backed by Y Combinator, Pear, Soma Capital, Prod, Harvard Innovation Labs, and more."
+      },
+      {
+        "title": "W24",
+        "company": "Y Combinator",
+        "duration": "Jan 2024 - Present · 2 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Co-Founder",
+        "company": "Ripple Interactive",
+        "duration": "Aug 2021 - May 2023 · 1 yr 10 mos",
+        "location": "",
+        "description": "Ripple revolutionizes how people connect at conferences and events."
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "maxmorganroth"
+  },
+  {
+    "fullName": "Mehek Gosalia",
+    "bio": "Student at MIT",
+    "location": "Greater Seattle Area",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Massachusetts Institute of Technology",
+        "degree": "Computer Science",
+        "duration": "2021 - 2025",
+        "grade": "Grade: Rising Junior",
+        "description": ""
+      },
+      {
+        "collegeName": "The Overlake School",
+        "degree": "High School Diploma, General Studies",
+        "duration": "2013 - 2021",
+        "grade": "Activities and societies: Speech and Debate Team (Public Forum and Original Oratory), Leader of IMPACT Club, Student Hiring Board, Student Curriculum Reform Team",
+        "description": "Honors: Presidential Scholar Semifinalist, Overlake's Diversity Honoree for Social Justice Work, Overlake Class of 2021 Graduation Speaker"
+      },
+      {
+        "collegeName": "University of Washington",
+        "degree": "2019 - 2020",
+        "duration": "2019 - 2020",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "mehek-gosalia-413a15192",
+    "url": "https://www.linkedin.com/in/mehek-gosalia-413a15192"
+  },
+  {
+    "fullName": "Meredith Kent",
+    "bio": "Incoming Investment Banking Analyst at Bank of America 2024",
+    "location": "Boston, Massachusetts, United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "Bachelor of Arts - BA, Economics",
+        "duration": "2020 - 2024",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Divine Savior Holy Angels High School",
+        "degree": "High School Diploma",
+        "duration": "Aug 2016 - May 2020",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Incoming Investment Banking Analyst",
+        "company": "Bank of America Merrill Lynch · Full-time",
+        "duration": "Sep 2023 - Present · 6 mos",
+        "location": "New York, New York, United States · On-site",
+        "description": ""
+      },
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": "Performing research within a team to present periodically to the club in preparation for a career in financial services• Completed training on the basics of accounting, finance, and investment analysis"
+      },
+      {
+        "title": "Head of Communications Committee",
+        "company": "Harvard Ventures · Full-time",
+        "duration": "Dec 2021 - Present · 2 yrs 3 mos",
+        "location": "Cambridge, Massachusetts, United States",
+        "description": "Direct report to Director of Communications, Director of Alumni Relations, and Director of Media to expand the network of the club"
+      },
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": "• Responsible for overseeing all chapter-level meetings, organizing speakers and workshops for the chapter(s), and interviewing applicants for new leadership in the chapter•Previously oversaw all financial matters, including the event budget, the sale of promotional items, and reimbursements"
+      },
+      {
+        "title": "Founder of Sports Nutrition Startup",
+        "company": " ",
+        "duration": "Mar 2020 - Present · 4 yrs",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Investment Banking Summer Analyst",
+        "company": "Bank of America · Internship",
+        "duration": "Jun 2023 - Aug 2023 · 3 mos",
+        "location": "New York, New York, United States",
+        "description": ""
+      },
+      {
+        "title": "Sailing Coach",
+        "company": "HYANNIS YACHT CLUB · Part-time",
+        "duration": "Jun 2022 - Dec 2022 · 7 mos",
+        "location": "Hyannis, Massachusetts, United States",
+        "description": ""
+      },
+      {
+        "title": "Undergraduate Summer Analyst",
+        "company": "NextGen Growth Partners · Internship",
+        "duration": "Feb 2022 - Jul 2022 · 6 mos",
+        "location": "Chicago, Illinois, United States",
+        "description": ""
+      },
+      {
+        "title": "Bartender",
+        "company": "Timmer's Resort · Part-time",
+        "duration": "Oct 2019 - Jan 2022 · 2 yrs 4 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Summer Equity Research Analyst",
+        "company": "Baird · Internship",
+        "duration": "Jun 2021 - Aug 2021 · 3 mos",
+        "location": "Milwaukee, Wisconsin, United States",
+        "description": "• Worked with the industrials coverage team and helped with company surveys, ESG reports, comparable company analyses, and watch-list reports• Outlined a new sophomore internship program for Baird based on research of other firms and increased competition for talent• Completed a paid Microsoft Excel course on Wall Street Prep"
+      },
+      {
+        "title": "Caddie",
+        "company": "Erin Hills Golf Course · Part-time",
+        "duration": "May 2021 - Aug 2021 · 4 mos",
+        "location": "Erin, WI",
+        "description": "• Participated in the 2021 golf season, caddying part-time at the site of the 2017 USGA U.S. Open"
+      },
+      {
+        "title": "Assistant Manager",
+        "company": "Vectorized · Part-time",
+        "duration": "Nov 2020 - Jan 2021 · 3 mos",
+        "location": "Brookfield, Wisconsin, United States",
+        "description": "• Recruited new sales representatives and gained leadership experience"
+      },
+      {
+        "title": "Sales Representative",
+        "company": "Vector Marketing · Part-time",
+        "duration": "Jun 2020 - Aug 2020 · 3 mos",
+        "location": "Brookfield, Wisconsin, United States",
+        "description": "• Cold-called potential clients as a sales representative, selling more than $6,000 worth of merchandise"
+      },
+      {
+        "title": "Sailing Coach",
+        "company": "Cedar Lake Yacht Club · Seasonal",
+        "duration": "Jun 2018 - Aug 2020 · 2 yrs 3 mos",
+        "location": "West Bend, Wisconsin, United States",
+        "description": "• Coached intermediate/advanced sailors as senior instructor; managed 7-10 instructors, ran drills/races while adapting to weather conditions and other safety concerns, and supervised 10-38 youth sailors"
+      },
+      {
+        "title": "Busser/Hostess",
+        "company": "Timmer's Resort  · Part-time",
+        "duration": "Jun 2016 - Oct 2019 · 3 yrs 5 mos",
+        "location": "West Bend, Wisconsin, United States",
+        "description": ""
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "meredithkent",
+    "url": "https://www.linkedin.com/in/meredithkent"
+  },
+  {
+    "fullName": "Michael Chen",
+    "bio": "Building Arphie",
+    "location": "San Francisco Bay Area",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "Bachelor of Arts - BA, Computer Science",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Canyon Crest Academy",
+        "degree": "",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Co-Founder",
+        "company": "Arphie · Full-time",
+        "duration": "2024 - Present · 2 mos",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Senior Engineering Manager",
+        "company": "Asana",
+        "duration": "2021 - 2023 · 2 yrs",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": ""
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Microsoft",
+        "duration": "2017 - 2018 · 1 yr",
+        "location": "Greater Seattle Area",
+        "description": ""
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "michael-chen-4751029a",
+    "url": "https://www.linkedin.com/in/michael-chen-4751029a"
+  },
+  {
+    "fullName": "Michael Chen",
+    "bio": "Mechanical Engineering Student at MIT",
+    "location": "Green Cove Springs, Florida, United States",
+    "about": "",
+    "projects": [
+      {
+        "title": "Solar Still to Distill Water From Plant Matter to Alleviate the Water Crisis in Uganda",
+        "duration": "Aug 2018 - Present",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Novel Inflammation Detection Pill",
+        "duration": "Aug 2017 - Jun 2018",
+        "url": "https://youtu.be/tfHhXhfw75Y",
+        "description": ""
+      }
+    ],
+    "education": [
+      {
+        "collegeName": "Massachusetts Institute of Technology",
+        "degree": "Bachelor's degree, Mechanical Engineering w. focus on Robotics",
+        "duration": "2020 - 2024",
+        "grade": "Grade: Sophomore",
+        "description": ""
+      },
+      {
+        "collegeName": "Ridgeview High School",
+        "degree": "High School Diploma, International Baccalaureate Program",
+        "duration": "2016 - 2020",
+        "grade": "Grade: Graduate",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Bipedal Robotics Engineer",
+        "company": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) · Full-time",
+        "duration": "Sep 2022 - Present · 1 yr 6 mos",
+        "location": "Cambridge, Massachusetts, United States · On-site",
+        "description": "Worked with Prof. Leonard and Postdoc Ge Yang to develop the world’s firstopen-source, low cost bi-pedal robot. I helped build a team of engineers and prototype anovel design. Now, we’re running simulations, integrating with a neural networkcontroller, and building the first prototype."
+      },
+      {
+        "title": "Student",
+        "company": "Massachusetts Institute of Technology · Full-time",
+        "duration": "Aug 2020 - Present · 3 yrs 7 mos",
+        "location": "",
+        "description": "Skills: Object-Oriented Programming (OOP) · Communication"
+      },
+      {
+        "title": "Robotics Engineer",
+        "company": "ARA · Full-time",
+        "duration": "May 2023 - Aug 2023 · 4 mos",
+        "location": "Washington DC-Baltimore Area · On-site",
+        "description": "I proposed and developed a novel autonomous drone system. I also worked on electro-mechanical design for a critical government contract."
+      },
+      {
+        "title": "Chief Executive Officer",
+        "company": "Pikfarm · Full-time",
+        "duration": "Jan 2021 - Mar 2022 · 1 yr 3 mos",
+        "location": "",
+        "description": "Skills: Object-Oriented Programming (OOP) · SDKs"
+      },
+      {
+        "title": "CEO/Flutter Software Engineer",
+        "company": "Solvus · Self-employed",
+        "duration": "May 2020 - Jan 2021 · 9 mos",
+        "location": "Florida, United States",
+        "description": "Skills: Object-Oriented Programming (OOP) · SDKs"
+      },
+      {
+        "title": "Food Service Specialist",
+        "company": "Pan Asian Cuisine · Part-time",
+        "duration": "Jun 2014 - Jun 2020 · 6 yrs 1 mo",
+        "location": "Green Cove Springs, Florida, United States",
+        "description": "I have helped at my parent's restaurant at a very young age. That experience culminated in me developing the skills to work as a sushi chef, waiter, cashier, fry cook, and stir fry chef. Additionally, I assisted in managerial work and the day to day operations of the restaurant."
+      }
+    ],
+    "awards": [
+      {
+        "title": "2020 GE-Reagan Scholar",
+        "issueDetails": "Issued by GE-Reagan  · Jun 2020"
+      },
+      {
+        "title": "1st Place Impromptu Speaking",
+        "issueDetails": "Issued by Florida Future Business Leaders of America · May 2020"
+      },
+      {
+        "title": "DAR Good Citizen Award District and Regional Level:",
+        "issueDetails": "Issued by Daughters of the American Revolution · May 2020"
+      },
+      {
+        "title": "Elks Most Valuable Student Regional, Lodge, State Representative, and National Semi-Finalist:",
+        "issueDetails": "Issued by ELKS CLUB · May 2020"
+      },
+      {
+        "title": "Lockheed Martin Scholar",
+        "issueDetails": "Issued by Lockheed Martin · May 2020"
+      },
+      {
+        "title": "Regeneron Scholar (2020):",
+        "issueDetails": "Issued by Regeneron · May 2020"
+      },
+      {
+        "title": "Florida Sunshine Scholar ",
+        "issueDetails": "Issued by State of Florida Education Department  · Jun 2019"
+      },
+      {
+        "title": "2019 Sole Honoree of the Ricoh USA $10,000 Sustainable Development Grant",
+        "issueDetails": "Issued by RICOH USA · May 2019"
+      },
+      {
+        "title": "National Merit Semi-Finalist:",
+        "issueDetails": "Issued by CollegeBoard · May 2019"
+      },
+      {
+        "title": "Stockholm Junior Water Challenge 2nd Place:",
+        "issueDetails": "Issued by Stockholm Water Prize and the WEA · May 2019"
+      },
+      {
+        "title": "National Scholastic Arconic Innovator of Tomorrow (2019):",
+        "issueDetails": "Issued by Arconic and Scholastic Foundation · Apr 2019"
+      },
+      {
+        "title": "International Science Fair 2018 First place Air Force Research Lab Award of $750",
+        "issueDetails": "Issued by Air Force · May 2017"
+      }
+    ],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "michael-chen-17464a1b1",
+    "url": "https://www.linkedin.com/in/michael-chen-17464a1b1"
+  },
+  {
+    "fullName": "Michael Egan",
+    "bio": "Co-Founder of Bunting Labs (YC S22)",
+    "location": "San Francisco, California, United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Y Combinator",
+        "degree": "S22, Bunting Labs, Inc.",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "University of Southern California",
+        "degree": "Bachelor of Arts - BA, History",
+        "duration": "",
+        "grade": "Activities and societies: Club Fencing, Blackstonian Pre-Law Honor Society, Trojan Shelter",
+        "description": ""
+      },
+      {
+        "collegeName": "Flintridge Preparatory School",
+        "degree": "",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Co-Founder",
+        "company": "Bunting Labs · Full-time",
+        "duration": "Dec 2021 - Present · 2 yrs 3 mos",
+        "location": "San Francisco, California, United States",
+        "description": "Bunting Labs is automating the digitization of maps into GIS and CAD software.YCombinator S22"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "Housing Rights Center",
+        "duration": "Jun 2019 - Aug 2019 · 3 mos",
+        "location": "",
+        "description": "Split time between the Counseling Department and Outreach DepartmentCounseling: Took calls and walk in visits from individuals facing eviction, rent increases, or other housing related legal problems, counseled them on their housing rights, and provided solutions or pathways to solutions to their specific issueOutreach: Assembled and updated materials regarding housing rights to provide to individuals in training sessions, community outreach clinics, and in other situations where people have questions regarding landlord/tenant rights or other housing related questions"
+      },
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": "Worked in a neuropsychiatric lab both in patient care and research. Experience in neuropsychological test grading, writing supplemental information, and as a Memory Trainer for UCLA Memory Care.Leading patients one on one with a variety of memory-assisting practices and reporting back to the lead doctor on their cognitive state."
+      }
+    ],
+    "awards": [
+      {
+        "title": "Eagle Scout",
+        "issueDetails": "Issued by Boy Scouts of America"
+      },
+      { "title": "Phi Beta Kappa", "issueDetails": "" },
+      { "title": "Summa Cum Laude", "issueDetails": "" }
+    ],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "michael-egan-4941a4145",
+    "url": "https://www.linkedin.com/in/michael-egan-4941a4145"
+  },
+  {
+    "fullName": "Michael Evans",
+    "bio": "Storytellers Rule the World | CEO and Co-Founder @ Ream",
+    "location": "Charleston, South Carolina, United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "In Progress, History and Science | Neuroscience Track",
+        "duration": "2020 - 2024",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Prod",
+        "degree": "Cohort 3.0",
+        "duration": "",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Wando High School",
+        "degree": "Valedictorian",
+        "duration": "2016 - 2019",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Charleston School of the Arts",
+        "degree": "Middle School Diploma, Band",
+        "duration": "Sep 2013 - May 2016",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "CEO and Co-Founder",
+        "company": "Ream · Full-time",
+        "duration": "Apr 2022 - Present · 1 yr 11 mos",
+        "location": "",
+        "description": "4,000+ fiction authors use Ream to generate subscription revenue from their readers. Our platform is shaping the future of publishing, empowering authors to sell-direct to their readers, and enabling creators to foster more vibrant communities around their stories than ever before.We have a community of 4,500 fiction authors in our Facebook Group, an annual Summit in Boston, and help authors make over half a million dollars each year on Ream just months after launching to the public."
+      },
+      {
+        "title": "Science Fiction Author",
+        "company": "Boundless Press · Self-employed",
+        "duration": "Feb 2017 - Present · 7 yrs 1 mo",
+        "location": "",
+        "description": "12 novels published and counting. I write novels about technologies gone wrong in the near future. My published series include World Gone Mad, Conspiracy Chronicles, and the Control Freakz Series. You can check out my books here: https://mevansinked.com/booksI have bootstrapped this publishing company since I was 15 years old, spending tens of thousands on digital advertising and contracting in the process. My first love will always be writing, and sharing fictional stories about the darker possible aspects of our future as it pertains to society and tech is my way of trying to spark conversations that push humanity forward into the light.As an author, I have interned for various companies such as Solar Six Books and Self Publishing Formula."
+      },
+      {
+        "title": "YouTube Creator",
+        "company": "YouTube · Self-employed",
+        "duration": "Aug 2020 - Dec 2022 · 2 yrs 5 mos",
+        "location": "",
+        "description": "In August 2020, I started vlogging my life in college on YouTube. My initial ambition was to share my life with my readers, but in the process, I discovered a world of opportunities and problems that existed for creators. With several hundred thousand views in a few short weeks, this channel led to experiences that changed my life forever. With my experience in multiple areas of digital creation, I also have served as a creator ambassador/advisor to start-ups like Creators Legal.I restarted my vlogging channel in the summer of 2022 and plan to continue sharing insights from my life on the channel. You can check it out here: https://www.youtube.com/channel/UC3UcqpKTZijNt3YKS1xJIGw/"
+      },
+      {
+        "title": "Head of Marketing and Creators",
+        "company": "Peek (Techstars '21) · Full-time",
+        "duration": "Nov 2021 - Jan 2022 · 3 mos",
+        "location": "",
+        "description": "I worked with Peek to hone their product strategy and bring the creator economy and web3 to the world of reading. Empowering reading creators to spark powerful conversations and build community is what inspires me as a storyteller to be a part of Peek. I work on the company vision, marketing, and creator outreach."
+      },
+      {
+        "title": "Livestream Creator Partner",
+        "company": "Airtime · Part-time",
+        "duration": "Feb 2021 - Oct 2021 · 9 mos",
+        "location": "",
+        "description": "Early creator partner in an innovative monetization and content program pioneering a new way to create and experience stories online. I live streamed on the Airtime app, integrating unique content experiences along with lively conversations in real-time. This start-up is trying to build the future of live social spaces on the internet, and I have worked on various marketing proposals and partnerships with the content team. In total, I streamed close to 1000 hours on this app writing and creating original nightly shows such as an interactive scavenger hunt roadtrip across America (yes, every night I actually went to a new city, it was fun)."
+      },
+      {
+        "title": "CEO/Co-Founder",
+        "company": "Kimera · Full-time",
+        "duration": "Jan 2021 - Aug 2021 · 8 mos",
+        "location": "Cambridge, Massachusetts, United States",
+        "description": "I led the technology start-up Kimera, working to lead the product vision, marketing, and deeply inform the strategy and operations of the enterprise. Kimera is our solution to a broken algorithmic discovery model (for creators, in particular) and our hope for a better future for the internet. We wanted to create a curated model of content discovery on the internet and a home for all creative content to reduce friction between creator-fan relationships online."
+      },
+      {
+        "title": "Chief Creator/Co-Founder",
+        "company": "Boundless Media  · Full-time",
+        "duration": "Jan 2021 - Apr 2021 · 4 mos",
+        "location": "Charleston, South Carolina, United States",
+        "description": "I co-founded this company along with David Vega to produce digital media content. We traveled the country (road-tripped over 10,000 miles) and filmed over 40 hours of content. I also had a long-term collaboration with Airrack, a fast-growing YouTuber with over 1 million subscribers. In total, our videos have amassed several million views across platforms and have managed a production team with as much as 5 people combined.Ultimately, we decided to put this project to the side to pursue Kimera but traveling the country and embarking on the adventure of storytelling in that way (and visiting places such as America's first climate refugees and America's poorest town... all during the time of COVID) was a more enlightening experience than anything. No doubt, I plan to write, reflect, and share the insights I've garnered in the future."
+      },
+      {
+        "title": "Banquet Server",
+        "company": "Wild Dunes Resort, A Destination Hotel · Part-time",
+        "duration": "Feb 2017 - Jun 2020 · 3 yrs 5 mos",
+        "location": "",
+        "description": "Worked here to garner my first official employment experience as well as capital for my businesses. Did everything from serve at weddings to putting out beach chairs by the ocean. Great memories and the capital from this enabled me to graduate high school a year early and pursue writing full time."
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "mevansinked",
+    "url": "https://www.linkedin.com/in/mevansinked"
+  },
+  {
+    "fullName": "Michael Hla",
+    "bio": "CS + Bio at Harvard University",
+    "location": "Greater Boston",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "Master of Science - MS, Computer Science",
+        "duration": "Jan 2023 - May 2024",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Harvard University",
+        "degree": "Bachelor's degree, Molecular Biology",
+        "duration": "2019 - 2024",
+        "grade": "Activities and societies: Harvard Square Homeless Shelter, Harvard Club Basketball, Quincy House",
+        "description": ""
+      },
+      {
+        "collegeName": "Westlake High School",
+        "degree": "2015 - 2019",
+        "duration": "2015 - 2019",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "ML Researcher",
+        "company": "Harvard John A. Paulson School of Engineering and Applied Sciences · Part-time",
+        "duration": "Jul 2023 - Present · 8 mos",
+        "location": "",
+        "description": "Working in the Rajpurkar Lab studying LLM generation from multimodal inputs"
+      },
+      {
+        "title": "ML Research Intern",
+        "company": "SHEPHERD · Full-time",
+        "duration": "May 2023 - Aug 2023 · 4 mos",
+        "location": "Boston, Massachusetts, United States · On-site",
+        "description": ""
+      },
+      {
+        "title": "Software Engineering Intern",
+        "company": "Camus Energy · Internship",
+        "duration": "May 2022 - Jan 2023 · 9 mos",
+        "location": "",
+        "description": "• Developed solar forecasting models for automated energy distribution across utilities• Built electric vehicle projection models to forecast energy needs of widespread charging• Wrote library for transformer load analysis across data sources"
+      },
+      {
+        "title": "Solutions Engineering Intern",
+        "company": "CognitiveScale · Internship",
+        "duration": "May 2021 - Aug 2021 · 4 mos",
+        "location": "",
+        "description": "• Produced end to end AI application for predicting risk of heart disease, capable of sending personalized interventions and retraining based on efficacy of interventions. • Generated synthetic datasets for low intensity emergency room visits used by Anthem for building forecasting models.• Tested and helped improve AI development studio and model fairness algorithm."
+      },
+      {
+        "title": "Undergraduate Researcher",
+        "company": "Massachusetts General Hospital",
+        "duration": "Sep 2020 - Jan 2021 · 5 mos",
+        "location": "",
+        "description": "• Researched experimental therapies for glioblastoma, role of extracellular vesicles in intratumoral communication, and resistance to radiotherapy in recurrent glioblastoma"
+      },
+      {
+        "title": "Associate Editor of Health Policy ",
+        "company": "Institute of Politics at Harvard Kennedy School",
+        "duration": "Sep 2019 - May 2020 · 9 mos",
+        "location": "",
+        "description": "• Co-authored \"Utilizing Public-Private Partnerships to Further the Prevention and Treatment of HIV/AIDS\" for UNAIDS policy recommendations• Co-authored \"Preventing the Next Epidemic: An Analysis of Methamphetamine in Massachusetts\" for State Senator John Keenan"
+      },
+      {
+        "title": "Lab Intern",
+        "company": "Asuragen",
+        "duration": "Jun 2019 - Aug 2019 · 3 mos",
+        "location": "Austin, Texas",
+        "description": "• Worked on genetic diagnostic kit capable of detecting many variations of cystic fibrosis. Proficient in gene replication/detection technologies (PCR/CE), data analysis, and protocol optimization."
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "michael-hla-58a468167",
+    "url": "https://www.linkedin.com/in/michael-hla-58a468167"
+  },
+  {
+    "fullName": "Michael Steinle",
+    "bio": "Information Technology and Services Professional",
+    "location": "Imperial Beach, California, United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Southern Illinois University, Carbondale",
+        "degree": "1987 - 1989",
+        "duration": "1987 - 1989",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": ""
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "michael-steinle-4b36786",
+    "url": "https://www.linkedin.com/in/michael-steinle-4b36786"
+  },
+  {
+    "fullName": "Miles Pines",
+    "bio": "Co-Founder at Endgrate",
+    "location": "United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "2022 - 2026",
+        "duration": "2022 - 2026",
+        "grade": "",
+        "description": ""
+      },
+      {
+        "collegeName": "Collegiate School",
+        "degree": "2009 - 2022",
+        "duration": "2009 - 2022",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "Co-Founder",
+        "company": "Endgrate",
+        "duration": "Aug 2022 - Present · 1 yr 7 mos",
+        "location": "",
+        "description": "One connection, 100+ integrations, instantly. Endgrate is the fastest way to add 3rd party integrations into SaaS products."
+      },
+      {
+        "title": "Founder",
+        "company": "RMNDRS · Part-time",
+        "duration": "Aug 2020 - Present · 3 yrs 7 mos",
+        "location": "",
+        "description": "Proprietary encrypted scheduled messaging platform"
+      },
+      {
+        "title": "Fellow",
+        "company": "Wheels Up · Internship",
+        "duration": "Jul 2021 - Aug 2021 · 2 mos",
+        "location": "",
+        "description": ""
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "miles-pines",
+    "url": "https://www.linkedin.com/in/miles-pines"
+  },
+  {
+    "fullName": "Milo Clark",
+    "bio": "Student at Harvard University",
+    "location": "Cambridge, Massachusetts, United States",
+    "about": "",
+    "projects": [{ "title": "", "duration": "", "url": "", "description": "" }],
+    "education": [
+      {
+        "collegeName": "Harvard University",
+        "degree": "Bachelor of Arts - BA, Physics",
+        "duration": "2020 - 2024",
+        "grade": "",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "title": "",
+        "company": "",
+        "duration": "",
+        "location": "",
+        "description": ""
+      }
+    ],
+    "awards": [{ "title": "", "issueDetails": "" }],
+    "certifications": [{ "title": "", "issuer": "", "link": "" }],
+    "id": "milo-clark-310a3423a",
+    "url": "https://www.linkedin.com/in/milo-clark-310a3423a"
   }
 ]
