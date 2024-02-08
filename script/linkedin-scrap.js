@@ -30,6 +30,7 @@ async function createBroswer() {
 const url = "https://www.linkedin.com/in";
 
 exports.fetchLinkedinProfile = async (userId, onSuccess) => {
+  console.log(`Running for ${userId}..`, onSuccess)
   try {
     const browser = await createBroswer();
     const page = await browser.newPage();
@@ -75,6 +76,6 @@ exports.fetchLinkedinProfile = async (userId, onSuccess) => {
     return scrappedData;
   } catch (error) {
     console.error(error);
-    throw error
+    throw error;
   }
 };
