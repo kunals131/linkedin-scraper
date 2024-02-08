@@ -30,6 +30,8 @@ const LINKEDIN_PATHS = {
   SKILLS: "/details/skills",
 };
 
+const LINKEDIN_BASE_URL = "https://www.linkedin.com/in";
 module.exports = {
   SELECTORS,
+  LINKEDIN_BASE_URL,
 };
