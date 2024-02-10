@@ -12,7 +12,7 @@ const { getSkills } = require("./skills");
 async function createBroswer() {
   try {
     return await puppeteer.launch({
-      headless: false,
+      headless: true,
       timeout: 45 * 1000, //45 seconds
       args: [
         "--no-sandbox",
@@ -45,7 +45,7 @@ exports.fetchLinkedinProfile = async (userId, onSuccess) => {
 
     await page.goto(`${url}/${userId}`);
     console.log("Wait for the main page load");
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(1000);
     console.log("Wait ended for main page");
 
     // Get the HTML content of the entire page
@@ -59,24 +59,41 @@ exports.fetchLinkedinProfile = async (userId, onSuccess) => {
       about: $(SELECTORS.ABOUT)?.text()?.replace("\n", "")?.trim() || "",
     };
     console.log("Scrapped the general details");
-    const projects = await getProjects(page, userId);
-    const education = await getEducation(page, userId);
-    const experience = await getExperience(page, userId);
-    const awards = await getAwards(page, userId);
-    const certifications = await getCertifications(page, userId);
-    const skills = await getSkills(page, userId);
-    scrappedData["projects"] = projects;
-    scrappedData["education"] = education;
-    scrappedData["experience"] = experience;
-    scrappedData["awards"] = awards;
-    scrappedData["certifications"] = certifications;
-    scrappedData["skills"] = skills;
-    console.log(scrappedData);
+    const keys = [
+      "projects",
+      "education",
+      "experience",
+      "awards",
+      "certifications",
+      "skills",
+    ];
+    const promises = [
+      getProjects(browser, userId).catch(() => []),
+      getEducation(browser, userId).catch(() => []),
+      getExperience(browser, userId).catch(() => []),
+      getAwards(browser, userId).catch(() => []),
+      getCertifications(browser, userId).catch(() => []),
+      getSkills(browser, userId).catch(() => []),
+    ];
+    const results = await Promise.all(
+      promises.map(async (promise, index) => {
+        const result = await promise;
+        return { [keys[index]]: result };
+      })
+    );
+
+    // Combine all results into a single object
+    const combinedResults = results.reduce(
+      (acc, curr) => ({ ...acc, ...curr }),
+      {}
+    );
+    console.log(combinedResults);
+    const finalRes = { ...scrappedData, ...combinedResults };
     if (onSuccess) {
-      onSuccess(scrappedData);
+      onSuccess(finalRes);
     }
-    // await browser.close();
-    return scrappedData;
+    await browser.close();
+    return finalRes;
   } catch (error) {
     console.error(error);
     throw error;

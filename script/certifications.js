@@ -1,12 +1,15 @@
-const { SELECTORS, LINKEDIN_BASE_URL:url } = require("../config");
+const { SELECTORS, LINKEDIN_BASE_URL: url } = require("../config");
 const cheerio = require("cheerio");
 
-exports.getCertifications = async (page, userId) => {
+exports.getCertifications = async (browser, userId) => {
   try {
+    const page = await browser.newPage();
+    await page.setViewport({ width: 1366, height: 768 });
+
     const updatedUrl = `${url}/${userId}/details/certifications`;
     console.log("Redericting to certifications page");
     await page.goto(updatedUrl);
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(1000);
     console.log("Redirected");
     const htmlCotent = await page.content();
     const $ = cheerio.load(htmlCotent);

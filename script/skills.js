@@ -1,7 +1,7 @@
-const { LINKEDIN_BASE_URL, SELECTORS } = require("../config");
+const { LINKEDIN_BASE_URL } = require("../config");
 const cheerio = require("cheerio");
 
-async function scrollInfinitely(page, scrollDelay = 2000) {
+async function scrollInfinitely(page, scrollDelay = 800) {
   try {
     let previousHeight;
     while (true) {
@@ -19,12 +19,14 @@ async function scrollInfinitely(page, scrollDelay = 2000) {
   }
 }
 
-exports.getSkills = async (page, userId) => {
+exports.getSkills = async (browser, userId) => {
   try {
+    const page = await browser.newPage();
+    await page.setViewport({ width: 1366, height: 768 });
     const updatedUrl = `${LINKEDIN_BASE_URL}/${userId}/details/skills/`;
     console.log("Redericting to Skills page");
     await page.goto(updatedUrl);
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(1000);
     console.log("Redirected");
     await scrollInfinitely(page);
     const htmlCotent = await page.content();

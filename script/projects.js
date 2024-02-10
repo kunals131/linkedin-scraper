@@ -1,11 +1,12 @@
 const { LINKEDIN_BASE_URL, SELECTORS } = require("../config");
 const cheerio = require("cheerio");
-exports.getProjects = async (page, userId) => {
+exports.getProjects = async (browser, userId) => {
   try {
+    const page = await browser.newPage();
     const updatedUrl = `${LINKEDIN_BASE_URL}/${userId}/details/projects/`;
     console.log("Redericting to Projects page");
     await page.goto(updatedUrl);
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(1000);
     console.log("Redirected");
     const htmlCotent = await page.content();
     const $ = cheerio.load(htmlCotent);
