@@ -7,11 +7,12 @@ const { getEducation } = require("./education");
 const { getExperience } = require("./experience");
 const { getAwards } = require("./awards");
 const { getCertifications } = require("./certifications");
+const { getSkills } = require("./skills");
 
 async function createBroswer() {
   try {
     return await puppeteer.launch({
-      headless: true,
+      headless: false,
       timeout: 45 * 1000, //45 seconds
       args: [
         "--no-sandbox",
@@ -30,7 +31,7 @@ async function createBroswer() {
 const url = "https://www.linkedin.com/in";
 
 exports.fetchLinkedinProfile = async (userId, onSuccess) => {
-  console.log(`Running for ${userId}..`, onSuccess)
+  console.log(`Running for ${userId}..`, onSuccess);
   try {
     const browser = await createBroswer();
     const page = await browser.newPage();
@@ -63,16 +64,18 @@ exports.fetchLinkedinProfile = async (userId, onSuccess) => {
     const experience = await getExperience(page, userId);
     const awards = await getAwards(page, userId);
     const certifications = await getCertifications(page, userId);
+    const skills = await getSkills(page, userId);
     scrappedData["projects"] = projects;
     scrappedData["education"] = education;
     scrappedData["experience"] = experience;
     scrappedData["awards"] = awards;
     scrappedData["certifications"] = certifications;
+    scrappedData["skills"] = skills;
     console.log(scrappedData);
     if (onSuccess) {
       onSuccess(scrappedData);
     }
-    await browser.close();
+    // await browser.close();
     return scrappedData;
   } catch (error) {
     console.error(error);
