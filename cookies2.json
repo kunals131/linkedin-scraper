@@ -1,7 +1,7 @@
 [
   {
     "domain": ".www.linkedin.com",
-    "expirationDate": 1739192317.260649,
+    "expirationDate": 1739185022.050217,
     "hostOnly": false,
     "httpOnly": true,
     "name": "bscookie",
@@ -14,7 +14,7 @@
   },
   {
     "domain": ".www.linkedin.com",
-    "expirationDate": 1708866241,
+    "expirationDate": 1708860838,
     "hostOnly": false,
     "httpOnly": false,
     "name": "timezone",
@@ -27,7 +27,7 @@
   },
   {
     "domain": ".www.linkedin.com",
-    "expirationDate": 1723208641,
+    "expirationDate": 1723203238,
     "hostOnly": false,
     "httpOnly": false,
     "name": "li_theme",
@@ -40,7 +40,7 @@
   },
   {
     "domain": ".www.linkedin.com",
-    "expirationDate": 1723208641,
+    "expirationDate": 1723203238,
     "hostOnly": false,
     "httpOnly": false,
     "name": "li_theme_set",
@@ -53,7 +53,7 @@
   },
   {
     "domain": ".linkedin.com",
-    "expirationDate": 1710248122,
+    "expirationDate": 1710241251,
     "hostOnly": false,
     "httpOnly": false,
     "name": "aam_uuid",
@@ -105,7 +105,7 @@
   },
   {
     "domain": ".linkedin.com",
-    "expirationDate": 1739192645.410621,
+    "expirationDate": 1739187241.220786,
     "hostOnly": false,
     "httpOnly": false,
     "name": "bcookie",
@@ -118,7 +118,7 @@
   },
   {
     "domain": ".linkedin.com",
-    "expirationDate": 1715432644.410514,
+    "expirationDate": 1715427240.220711,
     "hostOnly": false,
     "httpOnly": false,
     "name": "li_sugr",
@@ -387,6 +387,18 @@
   {
     "domain": ".linkedin.com",
     "hostOnly": false,
+    "httpOnly": false,
+    "name": "sdsc",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "22%3A1%2C1707648787293%7EJOBS%2C0OOx6r6Adk92%2BIKr5rnzGqVAiztY%3D"
+  },
+  {
+    "domain": ".linkedin.com",
+    "hostOnly": false,
     "httpOnly": true,
     "name": "fptctx2",
     "path": "/",
@@ -511,32 +523,7 @@
   },
   {
     "domain": ".linkedin.com",
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "sdsc",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": true,
-    "storeId": "0",
-    "value": "1%3A1SZM1shxDNbLt36wZwCgPgvN58iw%3D"
-  },
-  {
-    "domain": ".linkedin.com",
-    "expirationDate": 1707658415.221115,
-    "hostOnly": false,
-    "httpOnly": true,
-    "name": "__cf_bm",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "blTz7O3V2j1acOR.TaMT0fvSVfs9OMlvNfawB64DD8g-1707656615-1-AbqOQjztDAfcM7fHD/lABseXnXR8AuKce1E/jmjwy7759kSi8mX9wOxBs8U0eA2EsIhb4efZlDLiUOFfbJOhyk4="
-  },
-  {
-    "domain": ".linkedin.com",
-    "expirationDate": 1710248643,
+    "expirationDate": 1710243239,
     "hostOnly": false,
     "httpOnly": false,
     "name": "UserMatchHistory",
@@ -545,11 +532,11 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "AQJFpJcqTdwldwAAAY2YRIEcrHhsf9isV4d7pTer3SiX52di2hDq2hbacVwHB1jhAAp2I6sMqhfnNlv9BC5TzS32_wHn93S3p0GZ29RDDeeaRj6NX09Q5Wtb5f5ymHrd8C7eK7UMRbxchuL-VClrkLUq3qXmUIQK1DSdTLs62wRIUoNPfumxXSbhpoXM33mT5ME_CxWAjBLMIBL3A1bSdhhMiQhOe4UHob2kEUaWU9S7HcK8MMHtEYS-ERFjnEkUh4K9vRlLJVjkKNCHWtRHJ0OvZHfR6-a7PSKKo5XHF-n60nCMQURmmB22akdpZpYceKKD3AQ"
+    "value": "AQK0CCwEEc542wAAAY2X8g6Js-KiRTNY9PXCDhX3ll7fjMVHsp-WrPTWeTuSVpddxQ8Jcj58xdGVETEIL6u9czoa0TI67Wz_JS-G-pD7OwRTixXYQL54iNFqna_oCVsZh06ujlEoZEVQdv9C27tjyguEYi1aJG3V-xsrH9Vs0UngDD3TgsRtMBFFaVtDTHMuOvZJoZJ8lApWBX8DVFznSpiUEz_UsGUJxAswCFailv_QvXzTnS5xb6DUJpvJiFwuOakL-D1IQDKn-5BoDwdgShFmzfE_IG-1yuiAKElgsswP-0WGECQ4P98vIyVNq3RWikewpXw"
   },
   {
     "domain": ".linkedin.com",
-    "expirationDate": 1707740411.610555,
+    "expirationDate": 1707652809.133518,
     "hostOnly": false,
     "httpOnly": false,
     "name": "lidc",
@@ -558,6 +545,6 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "\"b=VB27:s=V:r=V:a=V:p=V:g=5592:u=1273:x=1:i=1707656652:t=1707740411:v=2:sig=AQGzSLUEutw9FZJvEah70CwdrkuFkV-d\""
+    "value": "\"b=VB27:s=V:r=V:a=V:p=V:g=5592:u=1273:x=1:i=1707651254:t=1707652809:v=2:sig=AQFKM6lX0u4aTWOy_-OmPvodVVYHkM5N\""
   }
 ]

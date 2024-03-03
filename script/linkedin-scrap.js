@@ -1,4 +1,9 @@
+// const puppeteerExt = require("puppeteer-extra");
+// const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+// const puppeteer = puppeteerExt.addExtra(require("puppeteer"));
+// puppeteer.use(StealthPlugin());
 const puppeteer = require("puppeteer");
+
 const fs = require("fs");
 const { SELECTORS } = require("../config");
 const cheerio = require("cheerio");
@@ -8,11 +13,13 @@ const { getExperience } = require("./experience");
 const { getAwards } = require("./awards");
 const { getCertifications } = require("./certifications");
 const { getSkills } = require("./skills");
+const { isEmptyWithAccuracy } = require("../utils/isObjectEmpty");
+const { getProxyArgs } = require("../utils/proxyHop");
 
-async function createBroswer() {
+async function createBroswer(additionalArgs = []) {
   try {
     return await puppeteer.launch({
-      headless: true,
+      headless: false,
       timeout: 45 * 1000, //45 seconds
       args: [
         "--no-sandbox",
@@ -21,6 +28,7 @@ async function createBroswer() {
         "--disable-dev-shm-usage",
         "--proxy-server='direct://'",
         "--proxy-bypass-list=*",
+        ...additionalArgs,
       ],
       executablePath: "/usr/local/bin/chromium",
     });
@@ -30,17 +38,18 @@ async function createBroswer() {
 }
 const url = "https://www.linkedin.com/in";
 
-exports.fetchLinkedinProfile = async (userId, onSuccess) => {
+exports.fetchLinkedinProfile = async (userId, onSuccess, idx = 0) => {
   console.log(`Running for ${userId}..`, onSuccess);
+  const config = getProxyArgs(idx);
   try {
-    const browser = await createBroswer();
+    const browser = await createBroswer(config.proxy);
     const page = await browser.newPage();
     console.log("Opened Browser and page initailized");
     await page.setViewport({ width: 1366, height: 768 });
 
-    const cookies = await fs.readFileSync("cookies.json");
-    const deserializedCookies = JSON.parse(cookies);
-    await page.setCookie(...deserializedCookies);
+    // const cookies = await fs.readFileSync("cookies.json");
+    // const deserializedCookies = JSON.parse(cookies);
+    await page.setCookie(...config.cookie);
     console.log("Cookies are set.");
 
     await page.goto(`${url}/${userId}`);
@@ -89,6 +98,9 @@ exports.fetchLinkedinProfile = async (userId, onSuccess) => {
     );
     console.log(combinedResults);
     const finalRes = { ...scrappedData, ...combinedResults };
+    if (isEmptyWithAccuracy(finalRes, 0.7)) {
+      return false;
+    }
     if (onSuccess) {
       onSuccess(finalRes);
     }
